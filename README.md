@@ -1,2 +1,3 @@
-# startup-of-the-year
-ZTM Exercise
+# mrad.github.io
+
+add info about me
